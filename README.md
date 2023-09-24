@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ...<br>🎯 Goals:...Become a Front-End Developer <br>🎲 Fun fact: ... Keep Smiling</p>
+<p align="left">📚 I'm currently learning ...<br>🎯 Goals:...Become a Front-End Developer <br>🎲 Fun fact: ... The first “computer bug” was an actual bug</p>
 
 ###
 
