@@ -2,8 +2,8 @@
 <h1 align="left">Hey 👋 I' m Tanmay Tripathi</h1>
 
 ###
-
-<p align="left">My name is Tanmay Tripathi  and I'm from India</p>
+💫 About Me:
+<p align="left">My name is Tanmay Tripathi  and I'm from India.</p>
 
 ###
 
@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **tripathitanmay2001@gmail.com**
   
--  📫 How to reach me **<a href="linkedin.com/in/tanmay-tripathi732822225
-">linkedin.com/in/tanmay-tripathi-732822225**<a/>
+-  📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TanmayTripathi) 
+
 
 
 ###
@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left"> 💻 Tech Stack:</h2>
 
 ###
 
